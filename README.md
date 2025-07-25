@@ -69,7 +69,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=TZ=Asia/Kolkata
-      - CHROME_CLI=https://x.com/CryptoGurujiOG #optional
+      - CHROME_CLI=https://linktr.ee/CryptoGurujiOG #optional
     volumes:
       - /root/chromium/config:/config
     ports:
